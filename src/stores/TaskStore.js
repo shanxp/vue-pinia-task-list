@@ -8,7 +8,7 @@ export const useTaskStore = defineStore('taskStore', {
             { id:3, title: "Buy fruits", isFav: true },
             { id:4, title: "Buy vegetables", isFav: false },
         ],
-        name: 'Shan'
+        name: 'Task List'
     }),
     getters: {
         favs() {

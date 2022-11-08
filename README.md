@@ -1,5 +1,7 @@
 # pinia-tasks
 
+![task List](task-list.png "Task list")
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
